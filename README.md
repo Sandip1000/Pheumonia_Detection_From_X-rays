@@ -1,1 +1,1 @@
-# Pheumonia_Detection_From_X-rays
+# Pneumonia_Detection_From_X-rays
